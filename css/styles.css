@@ -629,6 +629,7 @@ a {
   position: relative;
   overflow: hidden;
   width: 368px;
+  height: 294px;
 }
 .decoration-text {
   content: "";
